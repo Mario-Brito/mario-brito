@@ -1,3 +1,7 @@
+##
+
+![snake gif](https://github.com/mario-brito/mario-brito/blob/output/github-contribution-grid-snake.gif)
+
 - 👋 Olá! Eu sou @Mario-Brito
 - 🌱 Estou estudando Javascprit
 - 😄 Pronomes: Ele/dele
