@@ -1,6 +1,6 @@
 - 👋 Olá! Eu sou @Mario-Brito
 - 🌱 Estou estudando Javascprit
-- 😄 Pronouns: Ele/dele
+- 😄 Pronomes: Ele/dele
 
 
 <!---
